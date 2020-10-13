@@ -1,1 +1,4 @@
-# Credit-Card-Analysis
+# Credit-Card-Risk Analysis
+
+
+The objective, here, is to predict whether a person has good or bad credit risks, based on a set of attributes. The idea for this data has come from UCI Machine learning repository and the data has been sourced from Kaggle at ‘https://www.kaggle.com/uciml/german-credit’. The requirements for this project are branched into two phases. The first phase concentrates on data analysis and preprocessing and provides a detailed descriptive statistical analysis of the data. The second phase will present different machine learning algorithms to demonstrate the best method. This report scrutinizes the phase 1 of the project, where section 2 covers the Data preprocessing part and section 3 covers the data exploration. In the second part of the project, different Machine Learning algorithms models are demonstrated to meet the business objective. The report demonstrates three different types of supervised machine learning algorithms, that are intuitively used in the world of data science, to predict or classify the credit riskiness of a customer.
